@@ -1,0 +1,9 @@
+F:\TestWork\AreaCalculator\AreaCalculator\bin\Debug\netstandard2.1\ShapesCalculator.deps.json
+F:\TestWork\AreaCalculator\AreaCalculator\bin\Debug\netstandard2.1\ShapesCalculator.dll
+F:\TestWork\AreaCalculator\AreaCalculator\bin\Debug\netstandard2.1\ShapesCalculator.pdb
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.AssemblyInfoInputs.cache
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.AssemblyInfo.cs
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.csproj.CoreCompileInputs.cache
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.dll
+F:\TestWork\AreaCalculator\AreaCalculator\obj\Debug\netstandard2.1\ShapesCalculator.pdb
